@@ -11,6 +11,6 @@ In this project:
 - We documented potential EHP vectors among Node.js core APIs, changed the implementation of `fs.readFile`, and prepared a guide about EHP attacks for [nodejs.org](https://nodejs.org/en/).
 
 The reproducibility package consists of three repositories:
-- [node-cure-snykAnalysis](https://github.com/VTLeeLab/node-cure-snykAnalysis): the scripts for our EHP-themed analysis of the Snyk.io database 
-- [node-cure-outreach](https://github.com/VTLeeLab/node-cure-outreach): a collection of links summarizing our outreach efforts to the Node.js community
-- [node-cure-prototype](https://github.com/VTLeeLab/node-cure-prototype): the source code for the *Node.cure* prototype described in section 5 of the paper
+- [node-cure-snykAnalysis](https://github.com/VTLeeLab/node-cure-snykAnalysis): the scripts for our EHP-themed analysis of the Snyk.io database (section 3.4).
+- [node-cure-outreach](https://github.com/VTLeeLab/node-cure-outreach): links to our outreach efforts in the Node.js community (section 7).
+- [node-cure-prototype](https://github.com/VTLeeLab/node-cure-prototype): the source code for the *Node.cure* prototype (section 5).
